@@ -1,7 +1,6 @@
 # Chess System - Java
 
 [![Java Version](https://img.shields.io/badge/Java-25-orange)](https://www.oracle.com/java/)
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
 Este projeto é um sistema de jogo de xadrez completo desenvolvido em **Java 25**, executado inteiramente via terminal. O objetivo principal foi aplicar conceitos avançados de **Programação Orientada a Objetos (POO)** e lógica de jogos.
 
