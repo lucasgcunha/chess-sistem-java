@@ -51,10 +51,6 @@ O projeto é dividido em camadas de responsabilidade:
 4. Execute o jogo:
    ```bash
    java application/Program
-   
-## 📸 Preview do Sistema
-
-Ao executar o programa, o tabuleiro será exibido no terminal desta forma:
 
 ## 📸 Preview do Sistema
 
